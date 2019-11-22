@@ -1,1 +1,4 @@
 baseurl: /work
+
+paginate: 4
+plugins: [jekyll-paginate]
